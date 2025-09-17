@@ -73,11 +73,11 @@
     "karma-safari-launcher": "^1.0.0",
     "karma-sauce-launcher": "^4.3.6",
     "karma-sourcemap-loader": "^0.3.8",
-    "karma-webpack": "^4.0.2",
+    "karma-webpack": "^5.0.1",
     "lint-staged": "11.2.3",
     "release-it": "^14.11.6",
     "terser-webpack-plugin": "^4.2.3",
-    "webpack": "^4.44.2",
+    "webpack": "^5.101.3",
     "webpack-cli": "^4.9.1"
   },
   "dependencies": {
