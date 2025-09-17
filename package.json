@@ -34,8 +34,8 @@
   "scripts": {
     "build": "webpack -c webpack.config.js",
     "checks": "npm run lint && npm test && npm run build",
-    "lint": "eslint --fix '**/*.js'",
-    "lint:check": "eslint '**/*.js'",
+    "lint": "eslint --fix **/*.js",
+    "lint:check": "eslint **/*.js",
     "postinstall": "node scripts/install.js",
     "posttest": "npm run test:aircover",
     "prepare": "husky install",
