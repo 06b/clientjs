@@ -1,10 +1,10 @@
 {
   "name": "clientjs",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "homepage": "https://clientjs.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackspirou/clientjs.git"
+    "url": "https://github.com/06b/clientjs.git"
   },
   "description": "Device information and digital fingerprinting written in pure JavaScript.",
   "keywords": [
@@ -29,7 +29,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/jackspirou/clientjs/issues"
+    "url": "https://github.com/06b/clientjs/issues"
   },
   "scripts": {
     "build": "webpack -c webpack.config.js",
